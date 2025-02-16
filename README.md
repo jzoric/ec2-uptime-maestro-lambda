@@ -11,3 +11,4 @@ Run: `CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -tags lambda.norpc -o boots
 ## Links
 
 - Used in open tofu module: https://github.com/jzoric/ec2-uptime-maestro-tofu
+- Used in AWS CDK: https://github.com/jzoric/ec2-uptime-maestro-cdk
